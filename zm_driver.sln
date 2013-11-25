@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "zm_driver", "zm_driver\zm_driver.vcxproj", "{F7B4E234-7F85-4729-B149-65F7FE9BAD65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		driver|Win32 = driver|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7B4E234-7F85-4729-B149-65F7FE9BAD65}.driver|Win32.ActiveCfg = Release|Win32
+		{F7B4E234-7F85-4729-B149-65F7FE9BAD65}.driver|Win32.Build.0 = Release|Win32
+		{F7B4E234-7F85-4729-B149-65F7FE9BAD65}.driver|Win32.Deploy.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
